@@ -29,6 +29,9 @@ If you need to compile for linux system, you must be set followed command before
 CROSS PLATFORM
 ==============
 Linux 64bits    |> GOOS=linux GOARCH=amd64
+
 Mac 64 bits     |> GOOS=darwin GOARCH=amd64
+
 Windows 64 bits |> GOOS=windows GOARCH=amd64
+
 Windows 32 bits |> GOOS=windows GOARCH=386
